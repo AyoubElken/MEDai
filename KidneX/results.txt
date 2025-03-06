@@ -1,0 +1,5 @@
+User: p3, Image: Normal- (13).jpg, Prediction: Normal, Probability: 0.9999972581863403
+User: p3, Image: Normal- (13).jpg, Prediction: Normal, Probability: 0.9999972581863403
+User: P7, Image: Tumor- (11).jpg, Prediction: Tumor, Probability: 1.0
+User: 0, Image: Tumor- (26).jpg, Prediction: Tumor, Probability: 1.0
+User: 0, Image: Tumor- (12).jpg, Prediction: Tumor, Probability: 1.0
